@@ -122,5 +122,5 @@ body{
     }
     100%{
         transform: translateX(-20%) translateY(-40%);background-color: white;
-}
+    }
 }
